@@ -1,0 +1,38 @@
+body{
+
+    background-color : black;
+}
+
+#text{
+    color: aliceblue;
+    
+}
+
+#addTodocontainer{
+    display: flex;
+    justify-content: center;  
+    align-items: center;       
+    gap: 10px;
+    border: 2px solid white;
+    
+    
+}
+#listcontainer{
+    color: aliceblue;
+}
+
+#textbox, #addButton{
+    height: 25px;
+    font-size : 16px;
+}
+
+#titleContainer{
+    text-align: center;
+    color: aliceblue;
+}
+
+#textbox{
+    color: black;
+    
+}
+
